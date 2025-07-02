@@ -1,6 +1,6 @@
 # Görsel Optimizasyon SaaS (Alt Text Generator & WebP Converter)
 
-![Demo](./public/demo.gif)
+![Demo](/frontend/public/demo.gif)
 
 Bu proje, yüklenen görselleri optimize eden, otomatik alt metin (alt text) üreten ve WebP formatına dönüştüren bir demo SaaS uygulamasıdır. Google Cloud Vision API ile görsel içeriğine göre alt metin üretir, görseli WebP'ye çevirir ve kullanıcıya yeni dosya adıyla birlikte indirme imkanı sunar.
 
